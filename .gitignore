@@ -1,0 +1,17 @@
+# Python rommel
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Gegenereerde bestanden (die wil je niet in git)
+*.png
+*.pdf
+barcodes/
+temp_barcodes/
+
+# Database (bevat waarschijnlijk echte data, niet uploaden!)
+*.sqlite
+*.db
+
+
